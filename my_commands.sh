@@ -2,5 +2,7 @@
 
 function create() {
     echo 'hello'
-    python create.py
+    
 }
+
+create
