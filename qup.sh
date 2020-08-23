@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Dung de commit nhanh len github
+
 while getopts "m:" opt
 do
    case "$opt" in
