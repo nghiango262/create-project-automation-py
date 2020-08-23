@@ -2,6 +2,7 @@
 
 function create() {
     echo "$HOME"
-    python $HOME/projects/caiquan/create.py
+    cd "$HOME/projects/caiquan"
+    python create.py
     
 }
